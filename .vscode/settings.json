@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Django levelup",
+            "database": "db.sqlite3"
+        }
+    ],
+    "python.pythonPath": "/home/suganya/.local/share/virtualenvs/levelup--OA_AS1N/bin/python"
+}
