@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'corsheaders',
     'levelupapi',
-    'levelupreports'
+    'levelupreports',
 ]
 
 REST_FRAMEWORK = {
