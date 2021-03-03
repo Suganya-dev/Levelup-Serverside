@@ -7,8 +7,8 @@
             "description": "Welcome To at lunch",
             "game": 1,
             "date": "2021-10-04",
-            "time": "12:00",  
-            "joined": true
+            "time": "12:00"  
+           
         }
     },
     {
@@ -19,8 +19,8 @@
             "description": "Friday night Settlers and drinks",
             "game": 2,
             "date": "2021-08-14",
-            "time": "19:30",
-            "joined": true
+            "time": "19:30"
+           
         }
     },
     {
@@ -31,8 +31,8 @@
             "description": "Vale of the Frost King campaign. All weekend.",
             "game": 3,
             "date": "2021-04-20",
-            "time": "8:00",
-            "joined": false
+            "time": "8:00"
+            
         }
     }
 ]

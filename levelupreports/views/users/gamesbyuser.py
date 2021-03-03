@@ -1,7 +1,7 @@
 """Module for generating games by user report"""
 import sqlite3
 from django.shortcuts import render
-from levelupapi.models import Game
+from levelupapi.models import Games
 from levelupreports.views import Connection
 
 
